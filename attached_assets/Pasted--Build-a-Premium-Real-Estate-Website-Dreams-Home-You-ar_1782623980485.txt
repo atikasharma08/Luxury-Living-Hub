@@ -1,0 +1,431 @@
+# Build a Premium Real Estate Website – Dreams Home
+
+You are an expert UI/UX designer, front-end developer, and branding specialist.
+
+Your task is to design and develop a complete, modern, responsive, high-end real estate website for a property business.
+
+Do NOT create a generic template. Design a luxurious, elegant, trustworthy, and premium website that immediately builds confidence with visitors.
+
+The website should look like it was designed by a top web design agency.
+
+---
+
+# Business Details
+
+**Business Name:** Dreams Home
+
+**Business Category:** Real Estate
+
+**Phone:** 09958757477
+
+**Address:**
+10 Arcade,
+Aya Nagar Main Rd,
+In front of the MCD School,
+Aya Nagar,
+New Delhi,
+Delhi 110047
+
+**Google Rating:** ⭐ 4.9/5
+
+**Reviews:** 33 Reviews
+
+---
+
+# Website Style
+
+Create a premium luxury real estate website inspired by companies like Sotheby's, Knight Frank, and other high-end property websites.
+
+The design should feel:
+
+* Luxury
+* Elegant
+* Professional
+* Modern
+* Premium
+* Trustworthy
+* Spacious
+
+Use plenty of white space and clean layouts.
+
+---
+
+# Color Palette
+
+Use a luxury real estate color scheme.
+
+Primary:
+Navy Blue (#0F172A)
+
+Secondary:
+Royal Blue (#1E3A8A)
+
+Accent:
+Gold (#D4AF37)
+
+Background:
+White (#FFFFFF)
+
+Light Background:
+Soft Gray (#F8FAFC)
+
+Dark Section:
+Charcoal (#1F2937)
+
+Text:
+Dark Gray (#1F2937)
+
+Buttons:
+Blue to Gold gradient
+
+Use subtle gradients throughout the design.
+
+---
+
+# Typography
+
+Use premium Google Fonts.
+
+Headings:
+Playfair Display
+
+or
+
+Cormorant Garamond
+
+Body:
+Poppins
+
+or
+
+Inter
+
+Buttons:
+Montserrat SemiBold
+
+Typography should feel luxurious and highly readable.
+
+---
+
+# Website Sections
+
+## 1. Hero Section
+
+Create a stunning full-screen hero section.
+
+Use a luxury modern house or apartment background image with a dark overlay.
+
+Heading:
+
+"Find Your Dream Home Today"
+
+Subheading:
+
+"Luxury Homes • Apartments • Villas • Commercial Properties"
+
+Buttons:
+
+Explore Properties
+
+Contact Us
+
+Add animated floating elements, smooth scroll indicator, and subtle parallax effects.
+
+---
+
+## 2. About Dreams Home
+
+Introduce the company with a premium layout.
+
+Include:
+
+* Years of experience (placeholder)
+* Trusted property consultants
+* Customer satisfaction
+* Expert guidance
+
+Include an image placeholder with elegant card design.
+
+---
+
+## 3. Our Services
+
+Display animated cards for:
+
+🏡 Residential Properties
+
+🏢 Commercial Properties
+
+🏘 Apartments
+
+🌴 Luxury Villas
+
+📄 Property Documentation
+
+💼 Investment Consultation
+
+Each card should have modern icons, hover animations, and smooth transitions.
+
+---
+
+## 4. Featured Properties
+
+Create beautiful property cards.
+
+Each card should include:
+
+* Large property image placeholder
+* Property title
+* Price
+* Location
+* Bedrooms
+* Bathrooms
+* Area (sq. ft.)
+* "View Details" button
+
+Add hover zoom effects and elegant shadows.
+
+---
+
+## 5. Why Choose Dreams Home
+
+Create premium icon cards highlighting:
+
+* Trusted Experts
+* Best Property Deals
+* Transparent Process
+* Verified Listings
+* Excellent Customer Support
+* Fast Documentation
+
+Use subtle entrance animations.
+
+---
+
+## 6. Customer Reviews
+
+Display:
+
+⭐ 4.9 Rating
+
+33 Google Reviews
+
+Create an animated testimonial carousel with elegant review cards.
+
+---
+
+## 7. Image Gallery
+
+Create a responsive gallery showcasing luxury properties.
+
+Features:
+
+* Masonry layout
+* Hover zoom
+* Lightbox preview
+* Image placeholders
+
+---
+
+## 8. Property Search Section
+
+Create a modern search UI with fields for:
+
+* Property Type
+* Location
+* Budget
+* Bedrooms
+
+Include a premium "Search Properties" button.
+
+---
+
+## 9. Contact Section
+
+Display:
+
+Business Name
+
+Phone:
+09958757477
+
+Address:
+10 Arcade, Aya Nagar Main Rd, in front of the MCD School, Aya Nagar, New Delhi, Delhi 110047
+
+Include:
+
+* Google Maps placeholder
+* Click-to-call button
+* Contact form
+
+Form Fields:
+
+* Name
+* Phone
+* Email
+* Message
+
+Modern validation with smooth animations.
+
+---
+
+## 10. Footer
+
+Include:
+
+* Company Logo (text placeholder)
+* About
+* Quick Links
+* Services
+* Contact Information
+* Social Media Icons
+* Copyright
+
+---
+
+# Navigation Bar
+
+Create a premium sticky navigation.
+
+Features:
+
+* Transparent initially
+* Solid background on scroll
+* Smooth underline animation
+* Mobile hamburger menu
+* Responsive across all devices
+
+---
+
+# Animations
+
+Use elegant, smooth animations only.
+
+Include:
+
+* Fade In
+* Slide Up
+* Zoom In
+* Parallax Scrolling
+* Scroll Reveal
+* Floating Icons
+* Gradient Animations
+* Button Ripple
+* Card Hover Lift
+* Mouse Glow Effects
+* Glassmorphism Sections
+* Smooth Page Transitions
+* Loading Animation
+* Micro Interactions
+
+Animations should feel premium, not excessive.
+
+---
+
+# UI Design
+
+Use:
+
+* Rounded corners
+* Soft luxury shadows
+* Glassmorphism cards
+* Gradient buttons
+* Elegant spacing
+* Premium icons
+* Large professional images
+* Modern layouts
+* Luxury cards
+
+---
+
+# Buttons
+
+Create attractive gradient buttons with:
+
+* Lift effect
+* Glow on hover
+* Ripple animation
+* Smooth scaling
+* Premium transitions
+
+---
+
+# Responsiveness
+
+The website must be fully responsive on:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+No layout breaking or overflow.
+
+---
+
+# Performance
+
+Optimize for:
+
+* Fast loading
+* SEO
+* Accessibility
+* Clean code
+* Lazy-loaded images
+* Optimized animations
+
+---
+
+# Technology Stack
+
+Use:
+
+* HTML5
+* CSS3
+* JavaScript
+* Tailwind CSS (preferred)
+* AOS or Framer Motion for animations
+* Responsive Grid & Flexbox
+
+---
+
+# SEO
+
+Include:
+
+* Meta Title
+* Meta Description
+* Open Graph Tags
+* Favicon placeholder
+* Semantic HTML
+* Structured layout
+
+---
+
+# Contact Information
+
+Business Name:
+Dreams Home
+
+Phone:
+09958757477
+
+Address:
+10 Arcade, Aya Nagar Main Rd,
+In front of the MCD School,
+Aya Nagar,
+New Delhi,
+Delhi 110047
+
+Google Rating:
+⭐ 4.9/5 (33 Reviews)
+
+---
+
+# Final Requirement
+
+Generate a complete, production-ready real estate website with clean, modular code.
+
+The final design should look comparable to a premium real estate company's website, featuring elegant layouts, luxury typography, world-class UI/UX, smooth animations, beautiful visual effects, modern responsiveness, and an exceptional user experience.
+
+Do not use generic templates. Every section should feel custom-designed and visually impressive.

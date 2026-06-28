@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "L85qQjF6qskhSV9BAburQ"
+uri = "file://artifacts/dreams-home/public/hero-bg.png"
+type = "image"
+title = "Luxury modern villa exterior"
+
+[[generated]]
+id = "odtwNLA40adsRCNgBRv4g"
+uri = "file://artifacts/dreams-home/public/about-img.png"
+type = "image"
+title = "Luxury real estate office"
+
+[[generated]]
+id = "fCpPLbqDeKoj9qppCUEmp"
+uri = "file://artifacts/dreams-home/public/prop-1.png"
+type = "image"
+title = "Luxury 3BHK Villa"
+
+[[generated]]
+id = "FIpjJYBPzdFWjCNAfUsWm"
+uri = "file://artifacts/dreams-home/public/prop-2.png"
+type = "image"
+title = "Premium 2BHK apartment interior"
+
+[[generated]]
+id = "vOe1kyENCoZOSnyBd1zLf"
+uri = "file://artifacts/dreams-home/public/prop-3.png"
+type = "image"
+title = "Ground floor commercial space"
+
+[[generated]]
+id = "KQGIDjSumvFYjfoH3vLFh"
+uri = "file://artifacts/dreams-home/public/gallery-1.png"
+type = "image"
+title = "Opulent luxury living room"
+
+[[generated]]
+id = "UW2SUZuey8cc5cz_WLe3z"
+uri = "file://artifacts/dreams-home/public/gallery-2.png"
+type = "image"
+title = "Modern villa exterior"
+
+[[generated]]
+id = "gnHnsV-wHK5UYkeIYYCze"
+uri = "file://artifacts/dreams-home/public/gallery-3.png"
+type = "image"
+title = "Gourmet modular kitchen"
+
+[[generated]]
+id = "atLqYlK76M1tBB6fdnCUU"
+uri = "file://artifacts/dreams-home/public/gallery-4.png"
+type = "image"
+title = "Master bedroom suite"
+
+[[generated]]
+id = "nOWXGuvVTaZGK8uwx1AHa"
+uri = "file://artifacts/dreams-home/public/gallery-5.png"
+type = "image"
+title = "Corporate office lobby"
